@@ -1,38 +1,36 @@
-# Omadbek Fazliddinov
+# Omatillo Fazliddinov
 
-CS student at Xuzhou Institute of Technology. I work on machine learning problems — mostly where math and real data meet.
+CS student at Xuzhou Institute of Technology (Year 3, GPA 3.83/4.0).
+I work on machine learning problems — mostly where math and real data meet hard constraints.
 
-Currently interested in deep learning for medical imaging, data science, and building things that actually work.
+## What I've been working on
 
----
+**WSI cancer segmentation** — built a U-Net segmentation pipeline to detect Micropapillary Adenocarcinoma
+from 30 whole-slide histopathological images using PyTorch and OpenCV. handled class imbalance with focal
+loss and patch oversampling. trained on RTX 4070, 13k+ image-mask pairs.
 
-## what i've been working on
+**[ML competition (Kaggle)](https://github.com/FOmadbek/ML-Contest-2026)** — binary classification on tabular data. CatBoost + LightGBM + XGBoost ensemble
+tuned with Optuna. private AUC: 0.8938, Top 4 / 20+ teams.
 
-**cancer detection with CNNs** — built a classifier to detect Micropapillary Adenocarcinoma from histopathological images using PyTorch and OpenCV. part of a bioinformatics research project at my university.
+**[Teaching assistant](https://www.linkedin.com/in/fomadbek/)** — C++ (x2 semesters), SQL & database management, Java web development.
+three courses, two years, ~15 students each.
 
-**teaching assistant** — helping students with C++, SQL, and Java web development. explaining things forces you to actually understand them.
-
----
-
-## stack
+## Stack
 
 ```
-python · c++ · java · sql
-pytorch · opencv · scikit-learn · numpy · pandas
-linux · git · jupyter
+languages:  python · c++ · java · sql
+ml/dl:      pytorch · scikit-learn · xgboost · lightgbm · catboost · optuna
+cv:         opencv · u-net · patch extraction · wsi processing
+data:       numpy · pandas · jupyter
+tools:      git · linux · vs code
 ```
+## Currently
 
----
+- year 3, graduating june 2027
+- open to research collaborations in medical imaging / applied ML
+- applying to summer research programs (medical imaging, deep learning for pathology)
 
-## currently
-
-- year 3 cs student, graduating 2027
-- open to research collaborations and open source
-- studying: graph neural networks, statistical learning theory
-
----
-
-## find me
-
-- linkedin: [linkedin.com/in/fomadbek](https://linkedin.com/in/fomadbek)
-- email: fazliddinovomadbek@gmail.com
+## Find me
+- [LinkedIn ](https://linkedin.com/in/fomadbek)
+- [Kaggle ](https://www.kaggle.com/omadbekfazliddinov)
+- [Email ](mailto:fazliddinovomadbek@gmail.com)
