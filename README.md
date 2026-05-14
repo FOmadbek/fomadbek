@@ -34,3 +34,5 @@ tools:      git · linux · vs code
 - [LinkedIn ](https://linkedin.com/in/fomadbek)
 - [Kaggle ](https://www.kaggle.com/omadbekfazliddinov)
 - [Email ](mailto:fazliddinovomadbek@gmail.com)
+- [Telegram ](t.me/omadbe)
+- Wechat: F_Omadbek 
